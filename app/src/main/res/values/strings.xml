@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">patterning</string>
+    <string name="record_delete_button">Delete</string>
+
+</resources>
